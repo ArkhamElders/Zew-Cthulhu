@@ -7,7 +7,9 @@ Rozmawiając ze sobą, dostrzegą zmiany we własnym wyglądzie. Zestarzeli się
 U osób, które zjadły placek Iriny zaczną pojawiać się pierwsze symptomy zatrucia - nudności, kołatanie serca. Na tym etapie nie powinni jeszcze wiedzieć (choć mogą się domyślać), co jest powodem zatrucia. Bez względu na rzut określający czas działania trucizny, żaden z badaczy nie powinien umrzeć na tym etapie od jagód. 
 
 > **Rzeczy możliwe do znalezienia w domu:**
-> Nadpalony pamiętnik, Dziecięce zabawki, Niewielkie oszczędności, trochę biżuterii zrabowanej Polakom
+> Nadpalony pamiętnik, Dziecięce zabawki, Niewielkie oszczędności, trochę biżuterii zrabowanej Polakom.
+> 
+> Zabawki to głównie drewniane koniki, klocki, proste szmaciane lalki z wydrapanymi. W większości poniszczone, wszystkie w dość podobny sposób - zupełnie jakby ktoś chciał im wypruć wnętrzności i wydłubać oczy. Tymi zabawkami będą się bawić dzieci, które badacze spotkają kolejnego dnia.
 
 Pamiętnik i listy badacze mogą znaleźć w starym sejfie, o ile odgadną szyfr. Aby to zrobić, powinni zdać test **Nasłuchiwania lub Spostrzegawczości**. Śmiech dzieci lub duchy doprowadzą ich do wyciętych na drzewach liczb 29-3-1-9-44 (początek rzezi UPA na bieszczadzkich Polakach - Seredne Małe). Mogą też pojawić się dwie dodatkowe, zbędne liczby. **Test Historii** pomoże rozwiać wątpliwości. Błędne ustawienie szyfru spowoduje napływ głosów ofiar wojny w głowach badaczy i utratę `2/1d8 PP`.
 
