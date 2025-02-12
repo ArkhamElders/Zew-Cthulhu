@@ -7,8 +7,8 @@ Wszystkie opublikowane historie dostępne są całkowicie za darmo i takie pozos
 
 ## Lista scenariuszy
 
-001 - Mgła cieniów minionych [short]
-002 - Szepty świątecznych zabawek [short]
+- 001 - Mgła cieniów minionych [short]
+- 002 - Szepty świątecznych zabawek [short]
 
 Pytania?
 hello@arkhamelders.com
