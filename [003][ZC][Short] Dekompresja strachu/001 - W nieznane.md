@@ -1,0 +1,30 @@
+## Wejście do jaskini
+
+Z początku szeroki korytarz szybko zacznie się zwężać i badacze będą zmuszeni ustalić kolejność w jakiej będą płynąć. W tym miejscu skały są jeszcze jasne, miejscami poprzetykane drobnymi otworami, których nieśmiało wyglądają małe stworzenia - ryby, węże morskie i inne znajome, choć niezbyt znane gatunki. **Test biologii** może wykazać, że zwierzęta te są znacznie bardziej prymitywne, a ich ciała w pewnym sensie stanowią integralną część ze skałami. Kiedy spróbują się zbliżyć do małych mieszkańców jaskini, Ci schowają się w głębi otworów.
+
+Ostatnia osoba poczuje nagle, jak coś chwyta ją za nogę, utrudniając poruszanie. Gdy się odwróci, zobaczy puszczającą ją ludzką rękę, pozbawioną kombinezonu (**Poczytalność 1/1d4**), która znika w mroku. Czymkolwiek było to coś, nie miało złych zamiarów i starało się raczej ostrzec badaczy, by nie wpływali do jaskini. 
+
+Korytarz rozgałęzia się. Według mapy, oba przejścia prowadzą do tej samej jaskini. Tunel, który wybiorą, będzie zablokowany (czego nie widać na mapie), co zmusi ich do powrotu i jednocześnie sprawi, że zużyją niepotrzebnie cenną mieszankę. To tu dostrzegą pierwsze zwłoki - przebity stalagmitem, zwapniony, porośnięty czymś dziwnym, organicznym, szkielet nurka w stroju łudząco przypominającym ich własne (**Poczytalność 1/1d6**).
+
+## Las kolumn i kontakt
+
+Wpływając do pierwszej z większych jaskiń, badacze zauważą, że dno ma tutaj bardzo regularną, niemal gładką powierzchnię, a sklepienie jest znacznie wyższe - do tego stopnia, że nie widać go dokładnie. W jego kierunku pną się dziesiątki, może nawet setki jasnych, niemal białych kolumn. Zależnie od posiadanych umiejętności, badacze mogą dowiedzieć się następujących rzeczy:
+
+- kolumny są znacznie starsze, niż jakakolwiek znana cywilizacja
+- materiał, z którego je wykonano bliższy jest tkance kostnej, niż skale
+- zdobienia mają anatomiczny charakter, mnóstwo tu połączeń przypominających fragmenty szkieletów należących do różnych stworzeń 
+
+Jeśli podpłyną dostatecznie wysoko, zauważą też że kolumny mają stożkowaty, ostro zakończony kształt, a z sufitu zwisają analogiczne formacje. Im dalej w głąb , tym więcej tu delikatnego światła, emitowanego przez skały lub coś, co je porasta. W rzeczywistości skały pokryte są lepką, organiczną substancją o toksycznych właściwościach (**test biologii lub geologii**). Jej dotknięcie może spowodować uszkodzenie kombinezonu, przesączanie wody, a nawet paraliż kończyny. Nurkom stale towarzyszą ciche pomruki, a cała jaskinia zdaje się delikatnie poruszać.
+
+Płynąc dalej, badacze dostrzegą echo samych siebie (na tym etapie nie powinni jeszcze mieć tej świadomości) wpływających do kolejnego tunelu. Widzą nurków płynących przed nimi w znacznej odległości. Drugi zespół, a może tylko im się wydaje? Mogą próbować przestawić komunikatory na inną częstotliwość, by usłyszeć fragmenty ich rozmów, z których wywnioskują, że kończy im się tlen i się zgubili. Mogą nawet zechcieć im pomóc, dzieląc się butlami. Tu ważne jest utrzymanie graczy w niepewności i dostosowanie do ich decyzji. Podążając za postaciami dotrą do niewielkiego rozszerzenia w korytarzu, małej groty. Tu następuje pierwsza, krótka awaria sprzętu. Skutery przestają płynąć, światła gasną, wyłącza się interkom i komputery. Panuje zupełna ciemność i cisza, woda jest... nie czują wody, nie czują nic, nawet własnego ciała. Badacze doświadczają zjawiska deprywacji sensorycznej, co może prowadzić do **utraty poczytalności 1/1d4**. Nawet jeśli będą próbowali płynąć "ręcznie", nie będą w stanie odczuć, czy faktycznie to robią. Po chwili wszystko wróci do normy. Skutery zaczną pracować, wróci łączność. Badacze spostrzegą, że jednemu z nich brakuje zapasowej butli. Zniknęła.
+
+## Dźwięk ciszy
+
+Tunel doprowadzi badaczy do kolejnej podwodnej sali. Po drodze mogą mijać drobne, nieistotne rozgałęzienia, powinni jednak zauważyć zmieniającą się strukturę skał, które bardziej przypominają tu... oddychającą biomasę. Świadczą o tym choćby wydobywające się niewielkimi naroślami bąbelki. Skały uginają się pod dotykiem, są miękkie niczym ciało. To kolejna okazja dla badaczy do zebrania próbek, których potrzebuje AIMS. Podczas pływania muszą zachować szczególną strożność - w jaskini znajduje się mnóstwo linopodobnych tworów, które drgając, emitują ponury, rezonujący dźwięk. Przypominają one nieco stalowe liny, podtrzymujące most, ułożone są jednak równolegle względem siebie. To idealna sposobność, by pozbawić zespół komunikacji głosowej. Wystarczy, że podpłyną zbyt blisko lub dotkną strun. Emitowany przez nie dźwięk uszkodzi interkom, powodując także silny ból w uszach (**1d4 obrażeń, udany rzut na KON neguje**), a w skrajnym przypadku także omdlenie. Można też posłużyć się tajemniczym, bliżej nieokreślonym kształtem / cieniem jakiejś istoty, która przemknie między strunami, wprawiając je w ruch.
+
+Gdzieś na dnie mogą również zauważyć porzuconą, zniszczoną butlę z mieszanką lub komputer nurkowy - taki sam, jaki posiadają na wyposażeniu. 
+
+Do północnej części jaskini, przylega druga, znacznie mniejsza. Wypełnia ją zmieniające się płynnie światło, przechodzące przez podstawowe kolory tęczy (fioletowy, niebieski, zielony, żółty, pomarańczowy, czerwony). Co dziwne, nie da się ustalić jego źródła, jakby woda w grocie była luminescencyjna sama w sobie. To pomieszczenie stanowi wskazówkę do wyjścia. Można dodać badaczom dodatkową sugestię w postaci sześciu symboli / kryształów wydrapanych na jednej ze ścian (**test spostrzegawczości**).
+
+> Należy pamiętać o kontrolowaniu upływu czasu. Można wywierać na graczach dodatkową presję, informując ich co jakiś czas o malejącym poziomie mieszanki oddechowej. Dodatkowo po utracie łączności, powinni poruszać się w ciszy.
+> Badacze mogą doświadczyć również zmiennej geometrii jaskiń - znajdują się bowiem we wnętrzu żywego organizmu, nie skalnego kompleksu. Do decyzji Mistrza Gry należy, czy pozwoli im najpierw dotrzeć do sali z kangurem, a dalej do wyjścia, czy może powinni jeszcze błądzić. Mapa w komputerze nie powinna być wyznacznikiem ich faktycznego położenia.

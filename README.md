@@ -9,6 +9,7 @@ Wszystkie opublikowane historie dostępne są całkowicie za darmo i takie pozos
 
 - 001 - Mgła cieniów minionych [short]
 - 002 - Szepty świątecznych zabawek [short]
+- 003 - Dekompresja strachu [short]
 
 Pytania?
 hello@arkhamelders.com
